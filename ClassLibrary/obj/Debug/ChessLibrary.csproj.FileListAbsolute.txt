@@ -1,0 +1,16 @@
+D:\Projects\Misc\Chess\ClassLibrary\bin\Debug\Chessbrary.dll
+D:\Projects\Misc\Chess\ClassLibrary\bin\Debug\Chessbrary.pdb
+D:\Projects\Misc\Chess\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Misc\Chess\ClassLibrary\obj\Debug\Chessbrary.dll
+D:\Projects\Misc\Chess\ClassLibrary\obj\Debug\Chessbrary.pdb
+D:\Projects\Misc\Chess\Working\ClassLibrary\bin\Debug\Chessbrary.dll
+D:\Projects\Misc\Chess\Working\ClassLibrary\bin\Debug\Chessbrary.pdb
+D:\Projects\Misc\Chess\Working\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Misc\Chess\Working\ClassLibrary\obj\Debug\Chessbrary.dll
+D:\Projects\Misc\Chess\Working\ClassLibrary\obj\Debug\Chessbrary.pdb
+D:\ProjectsInExisting\Chess\CSChess\ClassLibrary\bin\Debug\Chessbrary.dll
+D:\ProjectsInExisting\Chess\CSChess\ClassLibrary\bin\Debug\Chessbrary.pdb
+D:\ProjectsInExisting\Chess\CSChess\ClassLibrary\obj\Debug\ChessLibrary.csprojResolveAssemblyReference.cache
+D:\ProjectsInExisting\Chess\CSChess\ClassLibrary\obj\Debug\ChessLibrary.csproj.CoreCompileInputs.cache
+D:\ProjectsInExisting\Chess\CSChess\ClassLibrary\obj\Debug\Chessbrary.dll
+D:\ProjectsInExisting\Chess\CSChess\ClassLibrary\obj\Debug\Chessbrary.pdb
